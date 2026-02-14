@@ -2,4 +2,7 @@ title: Marc Houben
 
 repository: houbenmr/houbenmr.github.io
 
+url: "https://username.github.io"
+baseurl: ""
+
 theme: minima
