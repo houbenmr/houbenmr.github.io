@@ -6,3 +6,6 @@ url: "https://houbenmr.github.io"
 baseurl: ""
 
 theme: minima
+
+email_user: marc.houben
+email_domain: math.u-bordeaux.fr

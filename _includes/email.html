@@ -1,0 +1,24 @@
+<span class="email"
+            data-user="{{ include.user }}"
+	          data-domain="{{ include.domain }}">
+	  <noscript>
+		      {{ include.user }} [at] {{ include.domain }}
+		        </noscript>
+</span>
+
+<script>
+	  document.querySelectorAll(".email").forEach(el => {
+		      if (el.dataset.rendered) return;
+
+		      const email = `${el.dataset.user}@${el.dataset.domain}`;
+
+		      const link = document.createElement("a");
+		      link.href = `mailto:${email}`;
+		      link.textContent = email;
+
+		      el.textContent = "";
+		      el.appendChild(link);
+
+		      el.dataset.rendered = "true";
+		    });
+</script>
