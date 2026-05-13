@@ -3,10 +3,11 @@ layout: home
 title: Research
 ---
 
-### Preprints
+### Accepted
 
 - **Dynamics of endomorphisms of algebraic groups.**  
 with Jakub Byszewski and Gunther Cornelissen.  
+*EMS Tracts in Mathematics*, 2026. (to appear)  
 [arXiv](https://arxiv.org/abs/2209.00085)
 
 ### Publications
