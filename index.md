@@ -1,8 +1,9 @@
 ---
 layout: home
 ---
+FNRS Postdoc at Universit\'e Libre de Bruxelles with [Christophe Petit](https://christophe.petit.web.ulb.be/).
 
-Postdoc in the [CANARI](https://canari.math.u-bordeaux.fr/) team at Inria Bordeaux.
+Previously: Postdoc in the [CANARI](https://canari.math.u-bordeaux.fr/) team at Inria Bordeaux with [Damien Robert](https://www.math.u-bordeaux.fr/~damienrobert/pro/).
 
 Email: {% include email.html user=site.email_user domain=site.email_domain %}
 
