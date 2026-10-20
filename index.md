@@ -10,4 +10,3 @@ Before that: PhD student at KU Leuven and Leiden University with [Wouter Castryc
 Email: {% include email.html user=site.email_user domain=site.email_domain %}
 
 GitHub: [houbenmr](https://github.com/houbenmr/)
-
