@@ -3,11 +3,11 @@ layout: home
 title: Research
 ---
 
-### Preprint
+### Preprints
 
-- **Computing endomorphisms of superspecial principally polarized abelian surfaces in time and memory \(p^{4/5+o(1)}\)**
-with Lam L. Pham.
-[ePrint](https://ia.cr/2026/2530)
+- **Computing endomorphisms of superspecial principally polarized abelian surfaces in time and memory $$p^{4/5+o(1)}$$.**  
+with Lam L. Pham.  
+[ePrint](https://ia.cr/2026/2530)  
 [git](https://github.com/houbenmr/attack-four-fifth)
 
 ### Accepted
